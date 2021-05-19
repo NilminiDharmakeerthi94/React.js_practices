@@ -9,7 +9,7 @@ import reportWebVitals from './reportWebVitals';
 //console.log(element);
 //ReactDOM.render(element, document.getElementById('root'));
 
-const name = 'Josh Perez';
+const name = 'Ama Perera';
 const element = <h1>Hello, {name}</h1>;
 
 ReactDOM.render(
